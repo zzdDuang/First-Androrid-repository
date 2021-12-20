@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application_04</string>
+    <string name="id_msg">id:</string>
+    <string name="password_msg" />
+    <string name="welcom_msg">Welcome to my Android app!!!</string>
+    <string name="ps_msg">pass</string>
+</resources>

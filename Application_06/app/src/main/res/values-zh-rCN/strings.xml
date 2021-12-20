@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的安卓</string>
+    <string name="txt_msg">" 文本显示"</string>
+    <string name="welcome_msg">欢迎欢迎！热烈欢迎</string>
+    <string name="button_msg">确认</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Application_05_UI</string>
+    <string name="button_01">OFFENSE</string>
+    <string name="button_02_msg">DEFENSE</string>
+    <string name="switch_01_msg">SWITCH BUTTON</string>
+    <string name="editText_hint_msg">YourName :</string>
+    <string name="button_03_confirm_msg">" Enter"</string>
+    <string name="radioButton1_msg">BlindBox 1</string>
+    <string name="radioButton2_msg">BlindBox 2</string>
+    <string name="radioButton3_msg">BlindBox 3</string>
+    <string name="radioButton4_msg">BlindBox 4</string>
+    <string name="radioButton_00_msg">BlindBox 5</string>
+</resources>

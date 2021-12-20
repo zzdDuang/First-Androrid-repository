@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application_03</string>
+    <string name="app_version">0.0.0.1</string>
+    <string name="content_plainText">用户名或邮箱</string>
+    <string name="button_msg_01">登录</string>
+    <string name="passwordtext_msg">密码：</string>
+    <string name="plaintext_msg_01">用户名或邮箱:</string>
+</resources>
